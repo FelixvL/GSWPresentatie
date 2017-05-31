@@ -7,11 +7,12 @@ Een standaard met een losse frontend server en een losse backend server is nu ge
 Het geeft zicht op een volledige stack die veel in het hedendaagse development gebruikt wordt.
  
 Spring: Het Java-Framework waarbij middels een werkstandaard, distributie van functionaliteit mogelijk is.
+Maven: Een buildtool (Gradle is een concurrent)
+
 -1- Ga naar start.spring.io voor een pom.xml, je klikt de features die je nodig hebt bij elkaar.  
  
-Maven: Een buildtool (Gradle is een concurrent)
 -2- Importeer het geheel als project in bv Eclipse
- Het systeem begint te importeren.
+Het systeem begint te importeren.
 Vaak kopieer ik componenten(dependencies) die ik moet gebruiken vanuit een andere xml
  
 -3- Daarna pas je de application.properties aan, aan jouw omgeving.
@@ -39,6 +40,7 @@ We starten het programma POSTMAN en testen of onze software werkt.
 De backend is af.
  
 Nu de frontend:
+
 -9- open een bestand index.html en hier kunnen we met de javascriptfuncties doen wat we willen mbv tekstvensters en knoppen.
 Dit index.html heb ik in de STATIC map gezet. ECHTER deze index.html kan vanuit anywhere in het netwerk worden gebruikt.
 Deze index.html heb ik in static gezet zodat het in deze repository past.
