@@ -6,7 +6,6 @@ Met dit stappenplan maak je een maven java BackEnd project dat via rest met een 
 Een standaard met een losse frontend server en een losse backend server is nu gebruikelijk in de markt.
 Het geeft zicht op een volledige stack die veel in het hedendaagse development gebruikt wordt.
  
-Stap 1 
 Spring: Het Java-Framework waarbij middels een werkstandaard, distributie van functionaliteit mogelijk is.
 -1- Ga naar start.spring.io voor een pom.xml, je klikt de features die je nodig hebt bij elkaar.  
  
